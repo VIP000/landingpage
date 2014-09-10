@@ -27,7 +27,7 @@ if (matchMedia('(min-width: 640px)').matches) {
       "width": 1280,
       "height": 720,
       "path": "assets/",
-      "filename": "second",
+      "filename": "NYscene",
       "types": ["mp4","ogg","webm"]
     });
   });
